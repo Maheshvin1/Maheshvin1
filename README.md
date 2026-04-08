@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Maheshvin1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<br>
+- 👋 Hi, I’m @Maheshvinnu
+- 👀 I’m interested in AOSP Development
+- 🌱 I’m currently working with AOSP HMI or System UI Development
+- 💞️ I’m looking to collaborate on Android Development
 
 <!---
 Maheshvin1/Maheshvin1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
